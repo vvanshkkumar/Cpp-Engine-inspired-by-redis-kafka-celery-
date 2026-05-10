@@ -24,7 +24,7 @@ public:
     };
 
     explicit Engine(
-        Config cfg = {}
+        Config cfg 
     );
 
     ~Engine();
